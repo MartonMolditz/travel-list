@@ -18,7 +18,7 @@ Alphabetically by description.
 By packing status (i.e., packed items moved to the end of the list).</ul>
 <b>Clear List Function:<b>
 
-<ul>Clears all items from the list, with a confirmation prompt before deletion.</ul>
+<li>Clears all items from the list, with a confirmation prompt before deletion.</li>
 <b>Status Information at the Bottom of the Page:</b>
 
-<ul>Displays the total number of items, packed items, and the overall percentage of completion. When all items are packed, the page displays a message indicating readiness for the trip.</ul>
+Displays the total number of items, packed items, and the overall percentage of completion. When all items are packed, the page displays a message indicating readiness for the trip.
